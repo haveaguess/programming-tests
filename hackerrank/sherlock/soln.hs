@@ -1,3 +1,4 @@
+-- solution to the hackerrank problem : https://www.hackerrank.com/contests/sep13/challenges/sherlock-and-the-beast
 
 -- we know it has to be a multiple of 3 x '5' and 5 x '3' in the numbers
 -- we also know that the fives have to be first for maximum numbers but let's not rely on that.. 
